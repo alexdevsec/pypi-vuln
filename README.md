@@ -3,6 +3,8 @@
 About
 =====
 
+For slides about this presentation, head over to [my slides from my March 2019 presentation] (https://github.com/alexdevsec/pypi-vuln/)
+
 This program helps calculate which packages in the pypi repository have known vulnerabilities.
 It uses Pyup's safety to determine it.
 
